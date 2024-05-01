@@ -1,4 +1,5 @@
 # 🎈데이터베이스 스터디
+![image](https://github.com/Coding-Fusion-Growing-Developer/Data-Modeling-Study/assets/48669085/e10a2550-a992-4d10-bc73-dfcd82901bce)
 
 ## 📘 스터디 규칙
 1. 매주 월 오후 10시 
